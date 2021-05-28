@@ -15,8 +15,6 @@ Accuracy obtained using SVR is 95.41%.</p>
 <p><span style="font-size:18px;">Comments:</span><br />
 After trying various regression algorithms, the SVR model gives the best accuracy.Though models like Random Forest,Decision Tree and other were giving 100% accuracy but that may lead to over-fitting and hence the SVR model is considered as it gives the next highest accuracy.</p>
 
-<hr>
-
 ## <b>2)Stroke Analysis Dataset</b>
 ### https://www.kaggle.com/fedesoriano/stroke-prediction-dataset
 This dataset is used to predict whether a patient is likely to get stroke based on the input parameters like gender, age, various diseases, and smoking status. Each row in the data provides relavant information about the patient.
@@ -45,8 +43,6 @@ Accuracy obtained using Random Forest Classifier is 99.09%.</p>
 <p><span style="font-size:18px;">Comments:</span><br />
 After trying various classification models,I concluded that the Random Forest Classifier gives the best accuracy.</p>
 
-<hr>
-
 ## <b>3)Groceries Dataset</b>
 ### https://www.kaggle.com/irfanasrullah/groceries
 Each row in this dataset consists of different items bought by a customer and using this data we can associate different pair of items generally bought together.This can be used for market analysis by grocery store vendors who can then formulate a method to increase the amount bought by their customers either by placing these items in close proximity or further apart.
@@ -57,8 +53,6 @@ Unsupervised Learning(Association Rule Learning)</p>
 Apriori Association Rule Learning Models</p>
 <p><span style="font-size:18px;">Comments:</span><br />
 We have used the apriori model to associate pairs of items frequently bought by the customers.</p>
-
-<hr>
 
 ## App Info
 
